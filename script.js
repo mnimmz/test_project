@@ -1,3 +1,3 @@
 function ({
-	var test = "hi"
-});
+	var test = "hi";
+})
